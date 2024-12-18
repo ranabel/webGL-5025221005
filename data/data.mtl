@@ -1,0 +1,22 @@
+# Blender 4.3.0 MTL File: 'Starter_Blocky_Rig.blend'
+# www.blender.org
+
+newmtl Handle1Mtl.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.062745 0.062745 0.062745
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd set4.png
+map_d set4.png
+
+newmtl Starter_Blocky_Rig
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.514917 0.514917 0.514918
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
